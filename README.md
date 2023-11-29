@@ -1,0 +1,2 @@
+# -Multi-Departmental-Networking-with-Enhanced-Security-in-Cisco-Packet-Tracer
+This Cisco Packet Tracer project presents a sophisticated enterprise network infrastructure employing classless addressing, featuring dedicated servers for key departments such as Engineering, Sales, and Accounts. The project is designed to optimize efficiency, bolster security, and ensure controlled communication within and across departments.
